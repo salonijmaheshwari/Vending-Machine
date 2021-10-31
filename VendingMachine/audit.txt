@@ -1,0 +1,31 @@
+2021-10-04T17:12:11.057085100 :  One Twix removed
+2021-10-05T13:36:39.412850300 :  One Coffee Crisp removed
+2021-10-05T13:53:25.635665300 :  One Bounty removed
+2021-10-05T13:54:25.103624800 :  One Bounty removed
+2021-10-05T13:57:38.197766200 :  One Bounty removed
+2021-10-05T14:22:13.478940 :  One Bounty removed
+2021-10-05T14:24:08.567743400 :  One Bounty removed
+2021-10-05T14:25:42.303835700 :  One Bounty removed
+2021-10-05T14:45:05.003777300 :  One Bounty removed
+2021-10-05T15:03:44.901915600 :  One Bounty removed
+2021-10-05T15:37:45.391649700 :  One Caramilk removed
+2021-10-05T16:33:04.491907300 :  One Kitkat removed
+2021-10-05T16:49:54.595161300 :  One Kitkat removed
+2021-10-05T16:51:51.025548800 :  One Bounty removed
+2021-10-06T11:10:37.262558 :  One Twix removed
+2021-10-06T11:15:19.990087400 :  One Coffee Crisp removed
+2021-10-06T11:21:24.876884700 :  One Twix removed
+2021-10-06T11:52:20.304480 :  One Caramilk removed
+2021-10-06T14:26:01.835718 :  One Twix removed
+2021-10-06T14:31:37.880645700 :  One Twix removed
+2021-10-06T15:27:00.892434200 :  One Dairy Milk removed
+2021-10-06T16:47:36.068647300 :  One Dairy Milk removed
+2021-10-06T17:00:31.338756700 :  One Coffee Crisp removed
+2021-10-06T17:04:36.808191700 :  One Twix removed
+2021-10-06T17:12:55.488272500 :  One Caramilk removed
+2021-10-06T20:45:20.113020600 :  One Snickers removed
+2021-10-06T20:45:20.122698100 : {25=1}change returned to User.
+2021-10-06T20:47:52.517409600 :  One Kitkat removed
+2021-10-06T20:47:52.521445400 : {25=6}change returned to User.
+2021-10-06T20:59:57.990914400 :  One Coffee Crisp removed
+2021-10-06T20:59:57.990914400 : {10=2, 25=7}change returned to User.

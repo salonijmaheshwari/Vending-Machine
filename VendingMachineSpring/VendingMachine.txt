@@ -1,0 +1,7 @@
+Snickers::1.75::0
+Kitkat::1.50::17
+Twix::1.30::0
+Caramilk::2.50::10
+Coffee Crisp::1.05::14
+Bounty::1.60::19
+Dairy Milk::2.10::18
